@@ -5,3 +5,5 @@ train/
 #assignment itself
 cs484_project.pdf
 
+# cache
+__pycache__
