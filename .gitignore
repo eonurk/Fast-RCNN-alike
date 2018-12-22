@@ -2,7 +2,7 @@
 test/
 train/
 
-#assignment itself
+#assignment 
 cs484_project.pdf
 
 # cache
@@ -12,3 +12,7 @@ __pycache__
 preprocessing.pyc
 resnet.pyc
 train.pyc
+featureExtraction.pyc
+
+# .vscode
+.vscode
