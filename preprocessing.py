@@ -1,15 +1,10 @@
 #!/usr/bin/env python3
 import numpy as np
-from PIL import Image
 import scipy.misc as scp
 
-def preprocessing(path):
+def preprocessing(image):
 
-	image = Image.open(path).convert('RGB') # load an image
-	image = np.asarray(image) # convert to a numpy array
-
-	row, col, depth= image.shape
-
+	row, col, depth = image.shape
 	if row>col:
 		image_square = np.zeros([row,row,3])
 	else:
