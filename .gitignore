@@ -7,3 +7,8 @@ cs484_project.pdf
 
 # cache
 __pycache__
+
+# .pyc
+preprocessing.pyc
+resnet.pyc
+train.pyc
