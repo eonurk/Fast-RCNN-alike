@@ -1,0 +1,6 @@
+numpy
+scipy
+pickle
+pandas
+matplotlib
+progressbar
