@@ -4,3 +4,4 @@ pickle
 pandas
 matplotlib
 progressbar
+selectivesearch
