@@ -3,7 +3,7 @@ Fast RCNN alike approach to ImageNet subset
 
 ## Python Version
 
-###Prerequisites:
+### Prerequisites:
 	pip install -r requirements.txt
   
 ### To obtain the results in the report:
