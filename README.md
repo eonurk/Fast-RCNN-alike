@@ -1,4 +1,4 @@
-# CS484-Project
+# Introduction
 Fast RCNN alike approach to ImageNet subset
 
 ## Python Version
